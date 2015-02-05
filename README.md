@@ -1,5 +1,4 @@
 # Echinocactus grusonii autonomae
-—
 
 ## Summary
 A cactus mounted on a Zumo Robot which allows it to seek for sunlight.
